@@ -5,8 +5,12 @@ Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.
 
 Alunos:  
 
-- Computação:  
-- Pedagogia:  
+    Alison Gabriela Barrantes Canales  
+    Christian Trisotto Alegri  
+    Douglas Royer  
+    Gabriel Torres Reifegerste  
+    Jardel Pereira Zermiani  
+    Rossana Ariadna Schumann Dullius  
 
 Assunto:  
 
