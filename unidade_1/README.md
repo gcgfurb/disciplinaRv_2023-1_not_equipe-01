@@ -4,7 +4,7 @@ Local para postar a atividade da unidade 1.
 
 ## Avaliação
 
-[Atividade1_slides](Atividade1_slides.pdf)
+[Atividade1_Grupo_slides](Atividade1_Grupo_slides.pdf)  
 
 ### Conceitos
 
