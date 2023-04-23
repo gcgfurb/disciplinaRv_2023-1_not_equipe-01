@@ -11,6 +11,13 @@ Desenvolver o trabalho final da matéria Realidade Virtual sob o tema Realidade 
 Faremos um jogo de RV usando VR que será um labirinto controlado por um controle
 
 
+# Divisão dos temas
+
+#### 1 poc com google card board (Gabriel e Douglas)
+#### 1 poc com unity (Cristian)
+#### 1 poc com assets do unity (alisson)
+#### conectar controle (jardel)
+
 # Objetivos
 
 #### Fazer um template para funcionar inicialmente o Unity
