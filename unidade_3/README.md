@@ -21,6 +21,13 @@ Nesta apresentação se pode utilizar slides, videos, ou mesmo de aplicações q
 - [ ] Aplicação de exemplo usando o controle do Oculus VR  
 - [ ] Mostrar quais Assets vai usar para modelar o cenário do projeto  
 
+Podem explorar 3 formas de interação diferentes:
+
+- controle virtual na cena  
+- controle remoro externo por bluetootch  
+- botão no OculusVR  
+![OculusVR](OculusVR_botao.png)  
+
 ## 2023-04-27 - 19:31
 
 Já dividiram as tarefas.  
