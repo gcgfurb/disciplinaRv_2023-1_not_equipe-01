@@ -17,7 +17,7 @@ Nesta apresentação se pode utilizar slides, videos, ou mesmo de aplicações q
 
 - [ ] Aplicação de exemplo usando template padrão disponível no Unity Hub: VR Core  
 - [ ] Aplicação de exemplo usando: <https://developers.google.com/cardboard?hl=pt-br>  
-- [ ] Exemplo de aplicações usando o Oculus VR para smartphone (o nosso)  
+- [ ] Exemplo de aplicações usando o Oculus VR para smartphone [nosso](OculusVR)  
 - [ ] Aplicação de exemplo usando o controle do Oculus VR  
 - [ ] Mostrar quais Assets vai usar para modelar o cenário do projeto  
 
