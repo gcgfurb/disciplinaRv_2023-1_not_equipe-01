@@ -7,16 +7,18 @@ Local para postar a atividade da unidade 3.
 ### Teórica
 
 Apresentação deve constar:
+
 - [ ] assunto para desenvolver o Projeto da disciplina  
 - [ ] lista das funcionalidades  
 - [ ] protótipo de telas (no caso pode ser desenhos de "todos" os espaços da aplicação)  
 Nesta apresentação se pode utilizar slides, videos, ou mesmo de aplicações que sejam correlatas a ideia proposta para poder exemplificar o Projeto proposto.
 
 ### Prática
+
 - [ ] Aplicação de exemplo usando template padrão disponível no Unity Hub: VR Core  
 - [ ] Aplicação de exemplo usando: <https://developers.google.com/cardboard?hl=pt-br>  
 - [ ] Exemplo de aplicações usando o Oculus VR para smartphone (o nosso)  
-- [ ] Aplicação de exemplo usando o controle do Oculius VR  
+- [ ] Aplicação de exemplo usando o controle do Oculus VR  
 - [ ] Mostrar quais Assets vai usar para modelar o cenário do projeto  
 
 ## 2023-04-27 - 19:31
