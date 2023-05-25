@@ -35,7 +35,19 @@ Já tem um HMD+controle.
 Já tem os Assets para usar: Synty Studios  
 Já mencionei que podem pedir ajuda para o Júlio/Martha de como usar o controle no Unity.  
 
-TODO: Eles irão pesquisar novos assets e me passar.  
+## Assets escolhidos pela turma
+
+Este foi comprado.  
+<https://assetstore.unity.com/packages/3d/environments/modular-horror-hospital-maze-206310>  
+Usar para acessar:  
+
+```
+  Usr: dalton.reis@gmail.com  
+  Pwd: Furb2022  
+````
+
+Este era muito antigo: 2016 - Unity 5.5.0  
+<https://assetstore.unity.com/packages/3d/environments/sewer-maze-77049>  
 
 ## Assets
 
