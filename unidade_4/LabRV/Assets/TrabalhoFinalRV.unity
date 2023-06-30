@@ -3557,7 +3557,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
 --- !u!1 &328399769 stripped
@@ -16270,7 +16270,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1507627056}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 281.14, y: 0.88, z: 368}
+  m_LocalPosition: {x: 281.14, y: 0.89, z: 368}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 320878628}
@@ -16284,13 +16284,13 @@ CapsuleCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1507627056}
-  m_Material: {fileID: 13400000, guid: e4ec6a85d860ce4499b7bebc35e40a11, type: 2}
+  m_Material: {fileID: 13400000, guid: 7c89f4b622b491648b55df61d7bafd9d, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.1
+  m_Radius: 0.33625895
   m_Height: 1.6
   m_Direction: 1
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Center: {x: 0.15214998, y: 0, z: 0.12403768}
 --- !u!114 &1507627064
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16300,21 +16300,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 1507627056}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ce8369fc47c749340975ea9aa3cee12d, type: 3}
+  m_Script: {fileID: 11500000, guid: 6584cc1f0d95c4848a46013b3a6b7702, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  airControl: 3
+  speed: 2
+  airControl: 6.96
   jumpForce: 5.33
-  mouseSensitivity: 100
+  mouseSensitivity: 50
   forwardSpeed: 1
   sideSpeed: 1
   groundedFriction: 0.8
   groundedTimer: 0
   airTimer: 0
   actualSpeed: 0
-  maxSpeed: 10
-  acceleration: 5
+  maxSpeed: 9
+  acceleration: 3
 --- !u!64 &1507627065
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16326,7 +16326,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1512013806 stripped
